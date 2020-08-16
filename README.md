@@ -31,12 +31,13 @@ As it is clear in following chart rural area is at the bottom ,suburban is in mi
 
 ## Summary
 
-As it is clear from the  ride share summary report for each city type and chart of total fare by week that rural are has least number of rides and drivers so drivers in rural area pay more fare  thansuburban and urban drivers.Following are few recommendations for CEO of bike ride sharing business are :
-  1. Company should advertise the ease of resisteration of bike using flyers or billboards.,so that users should be able to take advantage.
-  2. Company should reach rural,suburban and urban  area council to have bike lanes in all city  or link roads . It will ensure the bike safety and more people will be encoraged to use bike ride shares.
-  3. Company should also advertise that by using bike ride share will have less traffic of cars on roads and there will be less air polution and using bike ride share will be more economical as compare to cars etc.
-  4. In rural areas company should give discounts for first time drivers for certain period of time to attract more riders.
-  5. Company should have bike ride share available at supermarkets,bus stops,train stops,downtown,parks.With more availability more riders can take advantage.
-  6. Company should also consider riders with small children ,bikes with child safety seat,bikes for small children or rider can attach carrier for children.
+As it is clear from the  ride share summary report for each city type and chart of total fare by week that rural area has least number of rides and drivers so drivers in rural area pay more fare  than suburban and urban drivers.Following are few recommendations for CEO of  ride sharing business are :
+ 
+  1. In rural areas company should give discounts for first time riders for certain period of time to attract more riders.
+  2. Company should advertise in rural area more for ride sharing.
+  3. Company should also consider riders with small children ,vehicals  with child seat .
+  4. Company should also consider to add more vehicle with handicapped accessibility.
   
-  7. In urban and suburban areas number of bikes can  be increased
+  
+  
+  
