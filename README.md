@@ -23,7 +23,8 @@ This report  will analyse ride share data for each city type.The report includes
 
 - Drivers in rural city type pays more fare than suburban and urban and suburban pays more than urban drivers per ride.R**Rural city** type drivers pay little **more than 3 times** than urban drivers and **suburban drivers** pay little **more than 2 times** than urban drivers.
 
-- Same trend is following when total fares are calculated for each week from Jan-2019 to April-2019.As it is clear in following chart rural area is at the bottom ,suburban is in middle and urban area is at the top of total fare.
+- Same trend is following when total fares are calculated for each week from **Jan-2019 to April-2019**.**Maximum fare** for **rural city type is $500**,for **suburban is around $1400** and for **uban area is around $2500** in this time period.
+As it is clear in following chart rural area is at the bottom ,suburban is in middle and urban area is at the top of total fare.
 
 ![chart2](https://github.com/ajinderbains/PyBer_Analysis/blob/master/Resources/chart_ss.png)
   
