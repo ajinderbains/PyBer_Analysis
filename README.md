@@ -28,3 +28,13 @@ This report  will analyse ride share data for each city type.The report includes
 ![chart2](https://github.com/ajinderbains/PyBer_Analysis/blob/master/Resources/chart_ss.png)
   
 
+## Summary
+
+As it is clear from the  ride share summary report for each city type and chart of total fare by week that rural are has least number of rides and drivers so drivers in rural area pay more fare  thansuburban and urban drivers.Following are few recommendations for CEO of bike ride sharing business are :
+  1. Company should advertise the ease of resisteration of bike using flyers or billboards.,so that users should be able to take advantage.
+  2. Company should reach rural,suburban and urban  area council to have bike lanes in all city  or link roads . It will ensure the bike safety and more people will be encoraged to use bike ride shares.
+  3. Company should also advertise that by using bike ride share will have less traffic of cars on roads and there will be less air polution and using bike ride share will be more economical as compare to cars etc.
+  4. In rural areas company should give discounts for first time drivers for certain period of time to attract more riders.
+  5. Company should have bike ride share available at supermarkets,bus stops,train stops,downtown,parks.With more availability more riders can take advantage.
+  6. Company should also consider riders with small children ,bikes with child safety seat,bikes for small children or rider can attach carrier for children.
+  7.In urban and suburban areas number of bikes can  be increased
