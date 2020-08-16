@@ -31,7 +31,7 @@ As it is clear in following chart rural area is at the bottom ,suburban is in mi
 
 ## Summary
 
-As it is clear from the  ride share summary report for each city type and chart of total fare by week that rural area has least number of rides and drivers so drivers in rural area pay more fare  than suburban and urban drivers.Following are few recommendations for CEO of  ride sharing business are :
+As it is clear from the  ride share summary report for each city type and chart of total fare by week that rural area has least number of rides and drivers so drivers in rural area pay more fare  than suburban and urban riders.Following are few recommendations for CEO of  ride sharing business are :
  
   1. In rural areas company should give discounts for first time riders for certain period of time to attract more riders.
   2. Company should advertise in rural area more for ride sharing.
