@@ -37,4 +37,5 @@ As it is clear from the  ride share summary report for each city type and chart 
   4. In rural areas company should give discounts for first time drivers for certain period of time to attract more riders.
   5. Company should have bike ride share available at supermarkets,bus stops,train stops,downtown,parks.With more availability more riders can take advantage.
   6. Company should also consider riders with small children ,bikes with child safety seat,bikes for small children or rider can attach carrier for children.
-  7.In urban and suburban areas number of bikes can  be increased
+  
+  7. In urban and suburban areas number of bikes can  be increased
