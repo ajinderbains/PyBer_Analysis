@@ -37,6 +37,7 @@ As it is clear from the  ride share summary report for each city type and chart 
   2. Company should advertise in rural area more for ride sharing.
   3. Company should also consider riders with small children ,vehicals  with child seat .
   4. Company should also consider to add more vehicle with handicapped accessibility.
+  5. Company should consider encourging   drivers to register who travel for  work in rural areas and then advertise those drivers to riders in same route the drivers follow for their work.This will be helpful in increasing ride share in rural areas.Same strategy can be used in suburban and urban areas. 
   
   
   
